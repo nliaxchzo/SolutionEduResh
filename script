@@ -5,7 +5,7 @@
 // @run-at document-body
 // @include *://resh.edu.ru/subject/lesson/*
 // ==/UserScript==
-
+ 
 (function() {
  'use strict';
  var parentElementarr = document.getElementsByClassName('lk-form-submit js-clear');
